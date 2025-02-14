@@ -1,3 +1,8 @@
+---
+title: Making an offline first task management app with Vue3
+excerpt: Taskman is a Vue 3-based task management application that demonstrates modern web development practices using Vite, Tailwind CSS, Pinia, and json-server
+published_date: 2025-02-14 
+---
 # vue3-taskman
 
 ## About Taskman
