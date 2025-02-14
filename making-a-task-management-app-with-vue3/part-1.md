@@ -1,5 +1,5 @@
 ---
-title: Part 1: Getting Started with Vue3 & Vite!
+title: Part 1 - Getting Started with Vue3 & Vite!
 series: "How to Make a Vue3 Task Management App"
 excerpt: Taskman is a Vue 3-based task management application that demonstrates modern web development practices using Vite, Tailwind CSS, Pinia, and json-server
 published_date: 2025-02-14 
