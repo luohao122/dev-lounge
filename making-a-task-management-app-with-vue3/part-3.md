@@ -5,6 +5,12 @@ excerpt: Taskman is a Vue 3-based task management application that demonstrates 
 published_date: 2025-02-14 
 updated_date: 2025-02-14 
 part: 3
+tags:
+  - javascript
+  - typescript
+  - vue3
+  - pinia
+  - vite
 ---
 # vue3-taskman
 
