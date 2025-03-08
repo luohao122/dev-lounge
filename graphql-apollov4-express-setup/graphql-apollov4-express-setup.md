@@ -48,7 +48,7 @@ src
 
 ### Source code (Starting Point - Main Branch)
 
-The source code for this project is available in the repository linked below. Please ensure you are using the main branch as the starting point:
+The source code for this project is available in the repository linked below. If you want to follow along with this guide, you can use the main branch as a reference. However, you can also apply these instructions to your own project setup :
 [Source Code - Main Branch](https://github.com/luohao122/minimal-api-app)
 
 ### Install Required Packages
@@ -95,7 +95,7 @@ If you are using the provided source code, update your tsconfig.json to avoid ty
 This ensures proper module resolution when using Apollo Server with TypeScript.
 
 ### Key Takeways
-- Always use the main branch of the repository as the starting point.
+- Always use the main branch of the repository as the starting point, if you are using the provided source code.
 - Ensure you install the correct version of @types/express for Apollo Server v4.
 - Update tsconfig.json as shown above to prevent TypeScript conflicts.
 
