@@ -100,12 +100,6 @@ This ensures proper module resolution when using Apollo Server with TypeScript.
 - Ensure you install the correct version of @types/express for Apollo Server v4.
 - Update tsconfig.json as shown above to prevent TypeScript conflicts.
 
-Create a **.env** file with the following content:
-
-```
-PORT=3001
-```
-
 ---
 
 ## Setting Up GraphQL with Apollo Server
@@ -233,7 +227,7 @@ import { appRoutes } from "@app/routes";
 ```ts
 dotenv.config();
 
-const PORT = process.env.PORT;
+const PORT = 3001;
 
 const app = express();
 const httpServer = http.createServer(app);
