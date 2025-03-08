@@ -313,4 +313,3 @@ The Apollo Server playground will appear in development mode.
 You have successfully set up a **Node.js + Express.js + GraphQL** server with **Apollo Server v4**. This guide is intended for learning purposes, and the provided structure is not necessarily production-ready.
 
 Happy coding! 🚀
-```
