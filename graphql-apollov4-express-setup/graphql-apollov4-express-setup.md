@@ -49,6 +49,7 @@ src
 ### Source code (Starting Point - Main Branch)
 
 The source code for this project is available in the repository linked below. If you want to follow along with this guide, you can use the main branch as a reference. However, you can also apply these instructions to your own project setup :
+
 [Source Code - Main Branch](https://github.com/luohao122/minimal-api-app)
 
 ### Install Required Packages
